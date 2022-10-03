@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d3504ba-e2b6-4cb1-9c33-245749465501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/services/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/services/PaypalService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
