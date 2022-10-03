@@ -6,7 +6,7 @@ public class PaypalService implements OnlinePaymentService {
     private static final double MONTHLY_INTEREST = 0.01;
 
     @Override
-    public double paymenteFee(double amount) {
+    public double paymentFee(double amount) {
         return amount * PAYMENT_FEE;
     }
 
